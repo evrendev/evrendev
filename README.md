@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evren Yeniev</h1>
-<h3 align="center">A passionate fullstack developer from Germany</h3>
+<h3 align="center">Ich bin ein Softwareentwickler mit einer Leidenschaft für Webtechnologien. Derzeit arbeite ich als Full-Stack-Entwickler in einem Startup in Deutschland. Ich liebe es, Webanwendungen und Websites mit modernen Technologien zu erstellen.</h3>
+
+- 👨‍💻 All of my projects are available at [https://evren.dev/](https://evren.dev/)
+
+- 📫 How to reach me **mail@evren.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
