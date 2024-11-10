@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evren Yeniev</h1>
-<h3 align="center">Ich bin ein Softwareentwickler mit einer Leidenschaft für Webtechnologien. Derzeit arbeite ich als Full-Stack-Entwickler in einem Startup in Deutschland. Ich liebe es, Webanwendungen und Websites mit modernen Technologien zu erstellen.</h3>
+<h3 align="center">I'm a software developer with a passion for web technologies. I'm currently working as a full-stack developer at a startup in Germany. I love to build web applications and websites with modern technologies.</h3>
 
 - 👨‍💻 All of my projects are available at [https://evren.dev/](https://evren.dev/)
 
